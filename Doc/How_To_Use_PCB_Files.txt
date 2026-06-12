@@ -16,8 +16,3 @@ Note: The files inside the zip-file is made for PCBWay. If you using another
 manufacture, it could be necessary to edit some of the file so it fit the 
 manufactures specifications. 
 ------------------------------------------------------------------------------
-
-    
-
-
-
