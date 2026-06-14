@@ -1,9 +1,9 @@
-Status June 12, 2026 
-Files will be uploaded here very soon.
-They are going through the last quality check!
+WICS LED Adapter v1.1
+Status: BOARD
 
-// Bo Holmqvist
-
+Files:
+LED-Contact-2026-06-14_180613.zip - KiCad 9 Files
+LED-Contact.kicad.zip - Manufacture (PCBWay) files
 
   
  

@@ -1,9 +1,9 @@
-Status June 12, 2026 
-Files will be uploaded here very soon.
-They are going through the last quality check!
+WICS Gateway 1 v1.1
+Status: BOARD
 
-// Bo Holmqvist
-
+Files:
+Gateway-2026-06-14_220206.zip - KiCad 9 Files
+Gateway.kicad_pcb.zip - Manufacture (PCBWay) files
 
   
  
