@@ -57,17 +57,17 @@ GPIO 8 RGB LED
 XIAO ESP32-S3
 -----------------------------
 Port	GPIO	Remark
-D0 	1	 Safe to use
-D1	2	 Safe to use
-D2	3	 Safe if no JTAG
-D3  4	 Safe to use
-D4	5	 I2C: SDA
-D5	6	 I2C: SCL
-D6	43	TX
-D7	44	RX
-D8	7	 SCK
-D9	8	 MISO
-D10	9	 MOSI
+D0 	   1	 Safe to use
+D1	   2	 Safe to use
+D2	   3	 Safe if no JTAG
+D3     4	 Safe to use
+D4	   5	 I2C: SDA
+D5	   6	 I2C: SCL
+D6	   43	 TX
+D7	   44	 RX
+D8	   7   SCK
+D9	   8	 MISO
+D10	   9	 MOSI
 -----------------------------
 GPIO 21 = Internal LED	
 
