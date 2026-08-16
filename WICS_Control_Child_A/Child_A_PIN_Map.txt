@@ -1,5 +1,5 @@
 --------------------------------------------------
-   PIN MAP for MCP23017 for WICS Child-A PCB
+ PIN MAP for MCP23017 for WICS Child-A PCB v1.1
 --------------------------------------------------
 IC1-PIN    Panel          IC1-PIN - Panel        
 --------------------------------------------------
@@ -15,13 +15,19 @@ IC1-PIN    Panel          IC1-PIN - Panel
 --------------------------------------------------
 IC2-PIN - Panel           IC2-PIN - Panel        
 --------------------------------------------------
- 8 GPB0 - PushBTN-8        7 GPA7 - LED-17 (Blue)
- 9 GPB1 - PushBTN-7        6 GPA6 - LED-18 (Blue)
-10 GPB2 - PushBTN-6        5 GPA5 - LED-19 (Blue)
-11 GPB3 - PushBTN-5        4 GPA4 - LED-20 (Blue)
-12 GPB4 - PushBTN-4        3 GPA3 - LED-21 (Blue)
-13 GPB5 - PushBTN-3        2 GPA2 - LED-22 (Blue)
-14 GPB6 - PushBTN-2        1 GPA1 - LED-23 (Blue)
-15 GPB7 - PushBTN-1        0 GPA0 - LED-24 (Blue)
+ 8 GPB0 - PushBTN-8        7 GPA7 - LED-17 (Orange)
+ 9 GPB1 - PushBTN-7        6 GPA6 - LED-18 (Orange)
+10 GPB2 - PushBTN-6        5 GPA5 - LED-19 (Orange)
+11 GPB3 - PushBTN-5        4 GPA4 - LED-20 (Orange)
+12 GPB4 - PushBTN-4        3 GPA3 - LED-21 (Orange)
+13 GPB5 - PushBTN-3        2 GPA2 - LED-22 (Orange)
+14 GPB6 - PushBTN-2        1 GPA1 - LED-23 (Orange)
+15 GPB7 - LED-24 (Orange)  0 GPA0 - PushBTN-1 
 --------------------------------------------------
+nowRail is using PIN-Numbers 0-15
+PIN-7 (GPA7) and PIN-15 (GPB7) Input Only!
+--------------------------------------------------
+
+
+
   
