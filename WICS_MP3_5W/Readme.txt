@@ -1,6 +1,8 @@
-WICS MP3 Board 5W version
+--------------------------------------------------
+WICS MP3 Board-5W v1.1                (2026-08-02)
+--------------------------------------------------
 Status: CREATED
-
+--------------------------------------------------
 Files:
-MP3-Board-2026-06-15_113653.zip - KiCad 10 Files
-MP3-Board.kicad_pcb.zip - Manufacture (PCBWay) files
+MP3-5W-2026-08-02_145410.zip - KiCad 10 Files
+MP3-5W.kicad_pcb.zip         - Manufacture (PCBWay) files

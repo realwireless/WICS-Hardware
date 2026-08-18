@@ -1,6 +1,8 @@
-WICS MP3 Board 3W version
+--------------------------------------------------
+WICS MP3 Board-3W v1.1                (2026-08-02)
+--------------------------------------------------
 Status: CREATED
-
+--------------------------------------------------
 Files:
-MP3-3W-2026-06-26_174912.zip - KiCad 10 Files
+MP3-3W-2026-08-02_135743.zip - KiCad 10 Files
 MP3-3W.kicad_pcb.zip - Manufacture (PCBWay) files

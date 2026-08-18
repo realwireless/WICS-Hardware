@@ -1,10 +1,12 @@
-WICS GATEWAY-2 v1.0 (Espressif ESP32-S3 N8R8)
-Status: Created
-
+-----------------------------------------------------------
+WICS GATEWAY-2 v1.0 (Espressif ESP32-S3 N8R8) (2026-08-02)
+-----------------------------------------------------------
+Status: Board
+-----------------------------------------------------------
 Files:
-Gateway2-2026-06-14_222325.zip - KiCad 10 Files
-Gateway2.kicad_pcb.zip - Manufacture (PCBWay) files
-
+Gateway_2-2026-08-02_154538.zip - KiCad 10 Files
+Gateway_2.kicad_pcb.zip         - Manufacture (PCBWay) files
+-----------------------------------------------------------
 Note:
 Same as WICS Gateway-1 but with ESP32-S3 MCU
 Also have EEPROM socket if wanted.
