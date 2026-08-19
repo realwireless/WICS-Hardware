@@ -3,11 +3,13 @@ How To use the KiCad PCB Project files - [Board-YYYY-MM-DD_number.zip]
 ------------------------------------------------------------------------------
 1. Download the zipped KiCad project backup from the WICS_[Board Name] folder.
 2. Read the "readme.txt" file to check which version of KiCad being used.   
-3. Open the KiCad 9 or 10 Project Manager, go to File, and select Unarchive Project. 
-4. Choose your downloaded zip-file and extract it into a dedicated project folder. 
+3. Create a folder for the PCB under your KiCad project folder. 
+3. Open the KiCad 10 Project Manager, go to File, and select Unarchive Project. 
+4. Choose your downloaded zip-file and select the project folder created (P3). 
 5. KiCad will automatically unpack the files and reload the project for you to use.
-
+6. Now both the Schematic and PCB is availble to use. 
 ------------------------------------------------------------------------------
+
 How To use the WICS PCB export file to PCB manufacture - [Board.kicad.pcb.zip]
 ------------------------------------------------------------------------------
 1. Download the zipped KiCad PCB files from the WICS_[Board Name] folder.
