@@ -1,0 +1,14 @@
+WICS Control-Panel System
+If an Adapter-cable is needed between the PCB you can use this components:
+--------------------------------------------------------------------------
+XADRP-10V 	Samtec Housing 2x05 
+SXAM-01T-P0.6	Samtec Crimp pin
+TSW-105-07-G-D	Samtec 2x05 Pin Header
+22-AWG Wires
+--------------------------------------------------------------------------
+
+
+
+ 
+
+
