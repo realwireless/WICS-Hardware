@@ -1,0 +1,126 @@
+=================================================
+ESP32 SAFE TO USE PINS (Last update June 14,2026)
+=================================================
+
+-----------------------------------
+Espressif ESP32-S3 DEVKITC-1 (N8R8)
+-----------------------------------
+GPIO 1	
+GPIO 2	
+GPIO 4	
+GPIO 5	
+GPIO 6	
+GPIO 7	
+GPIO 8	
+GPIO 9	
+GPIO 10	
+GPIO 11	
+GPIO 12	
+GPIO 13	
+GPIO 14	
+GPIO 15	
+GPIO 16	
+GPIO 17	
+GPIO 18	
+GPIO 21	
+GPIO 47	
+GPIO 48	
+GPIO 39	If JTAG is not Used
+GPIO 40	If JTAG is not Used
+GPIO 41	If JTAG is not Used
+GPIO 42	If JTAG is not Used
+---------------------------
+GPIO 38 RGB LED
+
+----------------------------
+Espressif ESP32-C6 DEVKITC-1 
+-----------------------------
+GPIO 0	
+GPIO 1	
+GPIO 2	
+GPIO 3	
+GPIO 4 If no JTAG is Used 
+GPIO 5 If no JTAG is Used 
+GPIO 6 If no JTAG is Used 
+GPIO 7 If no JTAG is Used 
+GPIO 10	
+GPIO 11	
+GPIO 14	
+GPIO 15 If no JTAG is Used 
+GPIO 21	
+GPIO 22	
+GPIO 23	
+-----------------------------
+GPIO 8 RGB LED
+
+-----------------------------
+XIAO ESP32-S3
+-----------------------------
+Port	GPIO	Remark
+D0 	1	Safe to use
+D1	2	Safe to use
+D2	3	Safe if no JTAG
+D3      4	Safe to use
+D4	5	I2C: SDA
+D5	6	I2C: SCL
+D6	43	TX
+D7	44	RX
+D8	7	SCK
+D9	8	MISO
+D10	9	MOSI
+-----------------------------
+GPIO21 = Internal LED	
+
+-----------------------------
+LILYGO T-Energy ESP32-S3
+-----------------------------
+GPIO 1	
+GPIO 2	
+GPIO 4	
+GPIO 5	
+GPIO 6	
+GPIO 7	
+GPIO 10	
+GPIO 11	
+GPIO 12	
+GPIO 13	
+GPIO 17	
+GPIO 18	
+GPIO 21	
+GPIO 38	
+GPIO 39	If JTAG not Used (Save use to last)
+GPIO 40	If JTAG not Used 
+GPIO 41	If JTAG not Used 
+GPIO 47	
+GPIO 48	
+-----------------------------
+GPIO 14	If User BTN Pressed on the Board
+
+-----------------------------
+ESP32 WROOM-32
+-----------------------------
+GPIO 4	Safe
+GPIO 13	Safe
+GPIO 14	can have output when start
+GPIO 16	RX2
+GPIO 17	TX2
+GPIO 18	Safe
+GPIO 19	Safe
+GPIO 21	SDA
+GPIO 22	SCL
+GPIO 23	Safe
+GPIO 25	Safe
+GPIO 26	Safe
+GPIO 27	Safe
+GPIO 32	Safe
+GPIO 33	Safe
+GPIO 34	Input only
+GPIO 35	Input only
+GPIO 36	Input only
+GPIO 39	Input only
+-----------------------------
+GPIO 2 Internal LED
+
+
+
+
