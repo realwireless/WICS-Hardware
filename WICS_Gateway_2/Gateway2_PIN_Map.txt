@@ -1,5 +1,6 @@
 ---------------------------
 WICS GATEWAY-2 v1.0 PIN MAP
+Espressif ESP32-S3
 ----------------------------
 SDA=10
 SCL=9
