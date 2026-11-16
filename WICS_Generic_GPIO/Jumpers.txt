@@ -1,0 +1,38 @@
+=================================================================
+JUMPER SETTINGS
+On the Generic GPIO PCB following jumpers exist:
+=================================================================
+Main-A PCB: JP7 = 5V ON or OFF on V+ Line on the I2C Bus
+=================================================================
+Main-B PCB: JP1 = 5V ON or OFF on V+ Line on the I2C Bus
+=================================================================
+MCP23017 PCB: JP5/JP8, JP6/JP9, JP7/JP10 = MCP23017 Addresses.
+              J3/J7    J4/J6             = IO-Signal functions.
+              Each signal has 2-jumpers, X1-X2, Y1-Y2
+              JP1/JP3  JP2/JP4           = Set Pull-Up or Pull-Down
+-----------------------------------------------------------------
+Address Jumpers:
+A0  A1  A2    Address
+GND GND GND = 0x20
+3V3 GND GND = 0x21
+GND 3V3 GND = 0x22
+GND GND 3V3 = 0x23
+-----------------------------------------------------------------
+Signal Jumpers:
+X1 - X2 OFF = Output through limiting resister (LED). 
+Y1 - Y2 OFF
+---------------------------------------------------------------
+X1 - X2 OFF  = Direct Connection (no resistor).
+Y1 - Y2 ON 
+-----------------------------------------------------------------
+X1 - X2 ON  = Pull-Up or Down (protected by limiting resistor).
+Y1 - Y2 OFF                   (If a short should happen) 
+-----------------------------------------------------------------
+X1 - X2 ON  = Pull-Up or Down direct connection.
+Y1 - Y2 ON 
+-----------------------------------------------------------------
+Pull-Up/Pull-Down jumpers:
+PIN1-PIN2 = Pull Down to GND
+PIN2-PIN3 = Pull-Up to 3V3
+-----------------------------------------------------------------
+ 
