@@ -12,3 +12,5 @@ Generic_Main-A
 Generic_Main-B
 Generic_MCP23017
 --------------------------------------------------------------
+Components needed will be published in the WICS_PCB_Components.pdf
+and in the PCB_Components.xlsx
